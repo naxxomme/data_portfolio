@@ -15,7 +15,6 @@
 - Creación de arrays y matrices
 - Indexación y slicing
 - Operaciones aritméticas y funciones agregadas
-- Boolean indexing y máscaras
 
 ## 📂 Archivos incluidos
 - `dia_1_intro.ipynb`: ejemplos prácticos replicados del vídeo de freeCodeCamp
